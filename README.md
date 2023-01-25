@@ -1,4 +1,6 @@
-Hi, I’m Igor Ratajczyk aka @IRatajczyk.
+Hi, I’m Igor Ratajczyk, Eng aka @IRatajczyk.
+
+Control Engineer.
 
 I’m interested in ✨Computer Vision Systems✨ and Reinforcement Learning for Continuous Control. I do enjoy Cython.
 

@@ -2,7 +2,7 @@ Hi, I’m Igor Ratajczyk, Eng aka @IRatajczyk.
 
 Control Engineer.
 
-I’m interested in ✨Computer Vision Systems✨ and Reinforcement Learning for Continuous Control. I do enjoy Cython.
+I’m interested in ✨Computer Vision Systems✨ and Reinforcement Learning for Continuous Control. I do enjoy Julia.
 
 I'm look forward to collaborating on projects covering Vision Transformers, GANs and High Performance ML for edge devices.
 

@@ -16,6 +16,7 @@ Here is brief summary of my projects, not every one of them is published in Gith
 | Distributed Island EA for Enroll| C# | Distributed Island Evolutionary Algorithm with Constraint Programming Solver for Problem of assigning Studends to Classes | [IEA](https://github.com/IRatajczyk/Island-Evolutionary-Algorithm) |
 | GAN Wild Cats | Python | Experimetns with GAN trained to generate images of wild cats  | [GAN](https://github.com/IRatajczyk/GAN-wild-cats) |
 | Graph Decomposition | Python | Python implementation of decompostion algorithm of networkX graphs | [Graph](https://github.com/IRatajczyk/GraphDecomposition)|
+| DSS4REI | C# | Decision support system for real estate investment - Web scrapers + DS algorithms with Windows Forms GUI | [DSS4REI](https://github.com/IRatajczyk/DSS4RealEstateInvestment) |
 | Aestheticæ estimation | Python | Aestheticæ estimation of images using CNNs | [Aestheticæ](https://github.com/IRatajczyk/AestheticaeEstimation) |
 | Transformer based Tracker | Python | Transformer based Visual Object Tracker - implementation of paper | TBA |
 | Projector fine-tuner | Dart, Java, Python| Projector controller with mobile app for adjusting Projector perspective for user | TBA |
